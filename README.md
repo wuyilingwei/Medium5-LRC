@@ -7,6 +7,7 @@
 1. **仅限受邀用户**：请确保您已获得邀请，并拥有至少一张专辑的购买凭证。
 2. **禁止随意分发**：请勿将本项目中的内容随意分发，以维护社区的秩序和版权保护。
 3. **版权声明**：所有 LRC 文件版权归原作者或版权所有方所有，请勿用于商业用途。
+4. **不包含歌曲**：请勿提交歌曲文件。
 
 ## Github 简易指南
 
@@ -16,4 +17,6 @@
 
 ### 推荐工具
 
-对于新用户，我们推荐使用 [GitHub Desktop 中文发行版](https://github.com/zetaloop/desktop/releases/latest)，它提供了简单易用的图形界面，适合初学者快速上手。
+推荐使用 [GitHub Desktop 中文发行版](https://github.com/zetaloop/desktop/releases/latest)，它提供了简单易用的图形界面，适合初学者快速上手。
+
+安装完成后点击网页上的 Code - Open with Github Desktop
